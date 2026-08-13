@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-fp3904.juragan89site.site/sitemap.xml
